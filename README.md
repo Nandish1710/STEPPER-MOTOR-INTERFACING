@@ -70,6 +70,11 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+CLOCKWISE DIRECTION
+
+<img width="519" height="356" alt="488142398-0050149a-5034-4bb8-8b76-a1134003c2d2" src="https://github.com/user-attachments/assets/2e9a302d-6ab0-43cf-8820-6e44923bb732" />
+
+
 
 ## RESULT
 
